@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4644c462-4d21-4107-9ea0-44dcf7553db8" name="ftp" url="http://yq01-xushengbin.epc.baidu.com">
+        <fileTransfer host="yq01-xushengbin.epc.baidu.com" port="8021">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="NEVER" />
+          </advancedOptions>
+          <option name="port" value="8021" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
